@@ -41,5 +41,3 @@ Inicie o servidor
 Nessa aplicação aplicamos vários conceitos do React, desde hooks até consumo de API externa, utilizando async e await.
 
 Aplicamos o pré-processador Styled-components na prática.
-
-Utilizamos a API do TMDB (The Movie Database) - https://developers.themoviedb.org/3
